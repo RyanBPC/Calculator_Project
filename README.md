@@ -23,6 +23,8 @@ Calculator_Project/
 └─ Calculator_project_Art.py           # ASCII art logo
 ```
 
+It's really simple and easy to follow.
+
 ---
 
 ## How To Run It
