@@ -13,7 +13,7 @@ This calculator originally started as a little Python exercise, but it then turn
 - The code is kept real simple and easy to follow
 
 ---
-└ ─ ├ │
+
 ## Project Structure
 
 ```
